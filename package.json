@@ -1,0 +1,1 @@
+{"name": "mansa-spades", "version": "1.0.0", "description": "A Spades game with Bitcoin betting, animated characters, and wallet converter.", "main": "index.js", "scripts": {"test": "echo 'No tests specified' && exit 0"}, "author": "alejakemp", "license": "MIT"}
